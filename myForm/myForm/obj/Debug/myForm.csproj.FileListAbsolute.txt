@@ -1,0 +1,38 @@
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.Switch.resources
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.Properties.Resources.resources
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\bin\Debug\myForm.exe.config
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\bin\Debug\myForm.exe
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\bin\Debug\myForm.pdb
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.exe
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.pdb
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\bin\Debug\myForm.exe.manifest
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\bin\Debug\myForm.application
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.exe.manifest
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.application
+c:\users\xubing\documents\visual studio 2013\Projects\myForm\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+F:\临时\myForm\myForm\bin\Debug\myForm.exe.config
+F:\临时\myForm\myForm\obj\Debug\myForm.exe
+F:\临时\myForm\myForm\obj\Debug\myForm.pdb
+F:\临时\myForm\myForm\bin\Debug\myForm.exe.manifest
+F:\临时\myForm\myForm\bin\Debug\myForm.application
+F:\临时\myForm\myForm\bin\Debug\myForm.exe
+F:\临时\myForm\myForm\bin\Debug\myForm.pdb
+F:\临时\myForm\myForm\obj\Debug\myForm.Switch.resources
+F:\临时\myForm\myForm\obj\Debug\myForm.Properties.Resources.resources
+F:\临时\myForm\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+F:\临时\myForm\myForm\obj\Debug\myForm.exe.manifest
+F:\临时\myForm\myForm\obj\Debug\myForm.application
+E:\myGit\ipSwitch\myForm\myForm\bin\Debug\myForm.exe.config
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.exe
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.pdb
+E:\myGit\ipSwitch\myForm\myForm\bin\Debug\myForm.exe.manifest
+E:\myGit\ipSwitch\myForm\myForm\bin\Debug\myForm.application
+E:\myGit\ipSwitch\myForm\myForm\bin\Debug\myForm.exe
+E:\myGit\ipSwitch\myForm\myForm\bin\Debug\myForm.pdb
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.Switch.resources
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.Properties.Resources.resources
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.exe.manifest
+E:\myGit\ipSwitch\myForm\myForm\obj\Debug\myForm.application
